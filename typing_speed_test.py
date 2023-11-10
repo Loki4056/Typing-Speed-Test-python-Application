@@ -8,7 +8,6 @@ import sqlite3
 from datetime import datetime
 import webbrowser
 import os
-import datetime
 
 class TypingSpeedTestApp:
     def __init__(self, master):

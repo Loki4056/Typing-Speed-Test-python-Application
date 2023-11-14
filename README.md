@@ -14,7 +14,7 @@ This repository contains a simple and interactive Typing Speed Test application 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/typingspeedtest.git
+   git clone https://github.com/Loki4056/typingspeedtest.git
    ```
 2. Navigate to the project directory:
    ```
